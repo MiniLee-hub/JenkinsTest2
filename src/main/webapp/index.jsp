@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World!
-success! eeee
+success
 </h2>
 </body>
 </html>
